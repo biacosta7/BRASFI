@@ -58,7 +58,7 @@ Junte-se à comunidade BRASFI e inicie sua jornada de impacto, liderança e apre
 ### 1. Clone o repositório
 Abra seu terminal e execute o comando:
 ```bash
-git clone https://github.com/claranevess/BRASFI.git
+git clone https://github.com/biacosta7/BRASFI.git
 ```
 ### 2. Abra a pasta da BRASFI na sua IDE de preferência.
 ### 3. Execute a aplicação, localize a classe principal chamada:
@@ -92,17 +92,17 @@ http://localhost:8080
 ## Contribuidores
 
 ### Ciência da Computação
-- **Nina França** - <a href="mailto:nhffbs@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/ninafran%C3%A7afernandes/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Beatriz Costa** - <a href="mailto:bvcp@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/beatriz-costaa/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
-- **George Neto** - <a href="mailto:gaan@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/george-neto-9b872726b/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Fernanda Moura** - <a href="mailto:mfomd@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/maria-fernanda-oliveira-de-moura-duarte-428b89319/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
-- **Clara Neves** - <a href="mailto:mcsan@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/claranevess/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Gabrielle Mastellari** - <a href="mailto:gmv2@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/gabsmastellari/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
+- **George Neto** - <a href="mailto:gaan@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/george-neto-9b872726b/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
+- **Maria Clara Neves** - <a href="mailto:mcsan@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/claranevess/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
+- **Nina França** - <a href="mailto:nhffbs@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/ninafran%C3%A7afernandes/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Sofia Tenório** - <a href="mailto:sgt@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/sofia-tenorio2/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 
 ### Design
-- **Eduarda Albuquerque** - <a href="mailto:meas@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/mariaedualb/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Beatriz Torres** - <a href="mailto:bctsm@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/beatriztorrel/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
-- **Maria Alice Lacerda** - <a href="mailto:malca@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/malcaart/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Joana Pereira** - <a href="mailto:jfps@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/joana-flora-pereira-spanudarkis-16a30428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
+- **Maria Alice Lacerda** - <a href="mailto:malca@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/malcaart/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
+- **Maria Eduarda Albuquerque** - <a href="mailto:meas@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/mariaedualb/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 - **Vítor Cesar** - <a href="mailto:vcsa@cesar.school">📧</a> - <a href="http://linkedin.com/in/vítor-césar-andrade-3088a72bb"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
